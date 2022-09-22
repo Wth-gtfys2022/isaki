@@ -21,7 +21,7 @@
 # 在一起的日子，格式同上，暂不不支持农历
 "love_date": "2022-08-30",
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
-"note_ch": "你的名你的姓，我的承诺跟勇气。",
+"note_ch": "当我跨过沉沦的一切，向着永恒开战的时候，你就是我的军旗。",
 # 金句英文
-"note_en": "Your first name, your last name, my promise and courage."
+"note_en": "When I step over everything that has fallen and go to war with eternity, you are my flag."
 }
